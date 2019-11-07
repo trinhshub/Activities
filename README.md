@@ -2,7 +2,7 @@
 
 Center for Resilient Infrastructure and Smart Cities (CRISC) Lab
 ![ac690a71-3f1a-49ba-8890-af098045cc89](https://user-images.githubusercontent.com/47671910/68418809-982f1f00-015e-11ea-8c48-a98beb67304b.JPG)
-![e9c6b76a-6dcc-46c3-94ad-36f1610e09b4](https://user-images.githubusercontent.com/47671910/68418810-982f1f00-015e-11ea-8497-94776fbb039d.JPG)
+![3553084f-fc6f-4185-94ed-b1a48479694d](https://user-images.githubusercontent.com/47671910/68420183-6c616880-0161-11ea-8376-c0894d5015bf.JPG)
 
 WTS Heart of Texas Student Chapter
 ![IMG_1343 2](https://user-images.githubusercontent.com/47671910/68419101-34592600-015f-11ea-849a-99cd58b915e0.PNG)
