@@ -28,12 +28,27 @@
 
 
 
+<p align="center">
+  Previous Internship at the City of San Diego
+</p>
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/47671910/64620814-30509800-d3aa-11e9-8d25-c87d0fec71d1.JPG">
+</p>
 
-Previous Internship at the City of San Diego
-![IMG_7018 4](https://user-images.githubusercontent.com/47671910/64620814-30509800-d3aa-11e9-8d25-c87d0fec71d1.JPG)
 
-The International Club at Grossmont College
-![IMG_7018 5](https://user-images.githubusercontent.com/47671910/64620944-6aba3500-d3aa-11e9-8b05-15cae13fb5ea.JPG)
 
-Teaching English for Children in Monterrey, Mexico
-![IMG_7018 2](https://user-images.githubusercontent.com/47671910/68419048-21465600-015f-11ea-81fc-8652faec4cd0.JPG)
+<p align="center">
+  The International Club Board of Leadership at Grossmont College
+</p>
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/47671910/64620944-6aba3500-d3aa-11e9-8b05-15cae13fb5ea.JPG">
+</p>
+
+
+
+<p align="center">
+  Mission Trip to Teach English for Children in Monterrey, Mexico
+</p>
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/47671910/68419048-21465600-015f-11ea-81fc-8652faec4cd0.JPG">
+</p>
