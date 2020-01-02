@@ -1,4 +1,4 @@
-# Activities
+## Activities
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/47671910/68418809-982f1f00-015e-11ea-8c48-a98beb67304b.JPG">
@@ -10,9 +10,8 @@
 <p align="center">
   Center for Resilient Infrastructure and Smart Cities (CRISC) Lab
 </p>
-
-
-
+</p>
+</p>
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/47671910/68419101-34592600-015f-11ea-849a-99cd58b915e0.PNG">
 </p>
